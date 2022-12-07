@@ -1,3 +1,3 @@
-#Self Driving Car    
+#Self Driving Car
 
 Python, OpenCV, Raspberry-pi
